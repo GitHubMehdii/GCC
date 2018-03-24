@@ -2,6 +2,6 @@
 	$dbhost='localhost';
 	$dbuser='root';
 	$dbpasswd='';
-	$dbname='tp1';
+	$dbname='gcc';
 	$connection = mysqli_connect($dbhost,$dbuser,$dbpasswd,$dbname);
 ?>
